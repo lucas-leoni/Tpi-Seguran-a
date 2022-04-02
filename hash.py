@@ -1,6 +1,5 @@
 import hashlib
 import sys
-from xml.dom.minidom import TypeInfo
 
 def criar_hash():
 	nome_arquivo = input("\nInforme o nome do arquivo: ")
